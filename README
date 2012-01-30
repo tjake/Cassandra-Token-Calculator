@@ -1,0 +1,11 @@
+Calculates a initial token for the random paritioner assuming a fixed cluster size.
+
+To run token calculator run:
+
+java TokenCalculator N M
+
+Where N: is the clockwise position of the token you wish to calculate. N starts at 0.
+Where M: is the total number of nodes in the ring
+
+
+
